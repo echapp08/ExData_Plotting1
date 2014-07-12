@@ -10,12 +10,12 @@ the course web site:
 
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
-#IT IS ASSUMED THAT THIS DATA SET IS DOWNLOADED AND UNZIPPED INTO THE USER'S WORKING DIRECTORY.
-
 * <b>Description</b>: Measurements of electric power consumption in
 one household with a one-minute sampling rate over a period of almost
 4 years. Different electrical quantities and some sub-metering values
 are available.
+
+##IT IS ASSUMED THAT THIS DATA SET IS DOWNLOADED AND UNZIPPED INTO THE USER'S WORKING DIRECTORY.
 
 
 The following descriptions of the 9 variables in the dataset are taken
